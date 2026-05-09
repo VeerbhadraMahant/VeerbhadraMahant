@@ -2,20 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Veerbhadra+Mahant!" />
 </h1>
 <h3>An enthusiastic AI/ML Developer</h3>
-<h2 style="text-align:left;">👋 About Me</h2>
 
-<p style="text-align:left;">
-I’m an enthusiastic <strong>AI/ML Developer</strong> with a strong interest in building intelligent systems that actually work outside notebooks. 
+<h2>👋 About Me</h2>
+<p>
+I'm an enthusiastic <strong>AI/ML Developer</strong> with a strong interest in building intelligent systems that actually work outside notebooks. 
 I focus on <strong>machine learning algorithms, agentic AI</strong>, and end-to-end applications that combine data, models, and clean engineering.
 </p>
-
-<p style="text-align:left;">
-Currently, I’m expanding into <strong>deep learning</strong> and the <strong>MERN stack</strong> to better understand how intelligent models integrate with real-world products.
+<p>
+Currently, I'm expanding into <strong>deep learning</strong> and the <strong>MERN stack</strong> to better understand how intelligent models integrate with real-world products.
 I enjoy working on <strong>open-source projects</strong>, experimenting with new ideas, and learning by building instead of just reading.
 </p>
-<p style="text-align:left;">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3>Connect with me:</h3>
+<p>
 <a href="https://github.com/VeerbhadraMahant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VeerbhadraMahant" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/veerbhadramahant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerbhadramahant" height="30" width="40" /></a>
 <a href="https://kaggle.com/veerbhadramahant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="veerbhadramahant" height="30" width="40" /></a>
