@@ -12,12 +12,3 @@ I focus on <strong>machine learning algorithms, agentic AI</strong>, and end-to-
 Currently, I'm expanding into <strong>deep learning</strong> and the <strong>MERN stack</strong> to better understand how intelligent models integrate with real-world products.
 I enjoy working on <strong>open-source projects</strong>, experimenting with new ideas, and learning by building instead of just reading.
 </p>
-<h3>Connect with me:</h3>
-<p>
-<a href="https://github.com/VeerbhadraMahant" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VeerbhadraMahant" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/veerbhadramahant/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerbhadramahant" height="30" width="40" /></a>
-<a href="https://kaggle.com/veerbhadramahant" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="veerbhadramahant" height="30" width="40" /></a>
-<a href="https://instagram.com/bhadrabeingbhadra" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhadrabeingbhadra" height="30" width="40" /></a>
-<a href="https://twitter.com/veerbhadra596" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veerbhadra596" height="30" width="40" /></a>
-<a href="https://leetcode.com/Veerbhadra_Mahant" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Veerbhadra_Mahant" height="30" width="40" /></a>
-</p>
