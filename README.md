@@ -17,8 +17,9 @@ I enjoy working on <strong>open-source projects</strong>, experimenting with new
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/VeerbhadraMahant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VeerbhadraMahant" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/veerbhadramahant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veerbhadramahant/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veerbhadramahant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerbhadramahant" height="30" width="40" /></a>
 <a href="https://kaggle.com/veerbhadramahant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="veerbhadramahant" height="30" width="40" /></a>
 <a href="https://instagram.com/bhadrabeingbhadra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhadrabeingbhadra" height="30" width="40" /></a>
 <a href="https://twitter.com/veerbhadra596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veerbhadra596" height="30" width="40" /></a>
 <a href="https://leetcode.com/Veerbhadra_Mahant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Veerbhadra_Mahant" height="30" width="40" /></a>
+</p>
