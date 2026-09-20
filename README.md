@@ -1,7 +1,7 @@
-# Veerbhadra Mahant
+## Veerbhadra Mahant
 
-I like to build stuff.
-Currently building AI systems that scale.
+</P> I like to build stuff.</P> 
+</P> Currently building AI systems that scale. </P>
 
 ### Links
 
