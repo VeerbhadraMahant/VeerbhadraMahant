@@ -1,5 +1,3 @@
-## Veerbhadra Mahant
-
 </P> I like to build stuff.</P> 
 </P> Currently building AI systems that scale. </P>
 
